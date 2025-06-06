@@ -116,3 +116,9 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
+PARTNERS: JUSTIN OH AND TAAJ LALWANI
+Description of design choices: during this project we opted for it to play a tune and dance. we did this by making a method with two 1d arrays where we were able to go through each index and play the certain note and certain pause requied for the tune to sound right. We made the robot dance and flash lights by making a formloop that would repeat flashing lights and and a spining motion. 
+Challenges during this project: challenges we experienced while making this project was getting the music method to work effectivley. We first took this challege on by making a sequence of notes that were able to be played. However this did not make the code look pleasant. In order to sovle this issue we made 2 1d arrays in order to compact the info that is being played. and we then made the method go through each index and play them.
+Future enhancements: future enchancements that we would like to make is where the bot plays a multitide of songs instead of a singular one. We would have liked to add more instruemnts the robot is able to play as well. An example where these enhancements would be beneficial would be in kanyes all of the lgihts where he uses an abundance of different instruments.
+Video: https://youtube.com/shorts/hFUTy3aojXs?feature=shared
